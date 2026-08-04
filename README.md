@@ -82,6 +82,12 @@ The project uses Spring Data JPA with Hibernate to communicate with the database
 
 ---
 
+## 🗂️ ER Diagram
+
+The following diagram represents the database structure and relationships between patients, doctors, and appointments.
+
+![MediCore ER Diagram](Medicode-ER-diagram.png)
+---
 📚 API Documentation
 
 Swagger UI is available after running the project.
