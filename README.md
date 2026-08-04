@@ -102,8 +102,5 @@ Swagger UI is available after running the project.
 👨‍💻 Author
 
 Developed by Agneshia Khalid
-This project was created as part of my backend development learning journey using Java Spring Boot.
-
-Developed by Agneshia Khalid
 
 This project was created as part of my backend development learning journey using Java Spring Boot.
