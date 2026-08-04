@@ -96,6 +96,33 @@ Swagger UI is available after running the project.
 
 ---
 
+📸 API Screenshots
+
+➕ Create Patient
+
+"Create Patient API" (create-patient-api.png)
+
+📋 Get All Patients
+
+"Get All Patients API" (get-all-patients-api.png)
+
+➕ Create Doctor
+
+"Create Doctor API" (create-doctor-api.png)
+
+📋 Get All Doctors
+
+"Get All Doctors API" (get-all-doctors-api.png)
+
+➕ Create Appointment
+
+"Create Appointment API" (create-appointment-api.png)
+
+📋 Get All Appointments
+
+"Get All Appointments API" (get-all-appointments-api.png)
+
+---
 ## 🚀 Future Improvements
 
 - Spring Security Authentication
